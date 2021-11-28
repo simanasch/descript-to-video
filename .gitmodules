@@ -1,0 +1,9 @@
+[submodule "TTSController"]
+	path = TTSController
+	url = https://github.com/simanasch/TTSController.git
+[submodule "descript-to-video-core"]
+	path = descript-to-video-core
+	url = https://github.com/simanasch/descript-to-video-core.git
+[submodule "descript-to-video-ui"]
+	path = descript-to-video-ui
+	url = https://github.com/simanasch/descript-to-video-ui.git
